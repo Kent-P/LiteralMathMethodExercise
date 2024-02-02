@@ -19,4 +19,5 @@ let reindeers = "Reindeers are better than people."
 reindeers = reindeers.replace(/ /g,"_")
 console.log(reindeers);
 console.log(Math.sqrt(2));
-let newRandomNumber = 1 + Math.floor(Math.random() * 27)
+let newRandomNumber = 7 + Math.floor(Math.random() * 21)
+console.log(newRandomNumber)
